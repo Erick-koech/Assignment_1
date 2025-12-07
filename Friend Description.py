@@ -12,5 +12,4 @@ Shawn = Person(
     age="20"
 )
 
-
 print(Shawn)
